@@ -6,7 +6,6 @@ CLASSES = {
   4: 'class4',
 };
 
-import * as tf from '@tensorflow/tfjs-core';
 const MODEL_PATH =
     'model.json';
 
