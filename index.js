@@ -1,3 +1,4 @@
+import * as tf from '@tensorflow/tfjs';
 CLASSES = {
   0: 'class0',
   1: 'class1',
