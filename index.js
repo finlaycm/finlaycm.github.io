@@ -1,4 +1,3 @@
-
 CLASSES = {
   0: 'class0',
   1: 'class1',
